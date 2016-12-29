@@ -1,0 +1,13 @@
+http://35.164.134.207:3003/
+http://35.164.134.207:3003/#realto-carousel
+http://35.164.134.207:3003/about_us
+http://35.164.134.207:3003/contact_us
+http://35.164.134.207:3003/renters/1
+http://35.164.134.207:3003/renters/10
+http://35.164.134.207:3003/renters/11
+http://35.164.134.207:3003/renters/12
+http://35.164.134.207:3003/renters/14
+http://35.164.134.207:3003/renters/new
+http://35.164.134.207:3003/users/password/new
+http://35.164.134.207:3003/users/sign_in
+http://35.164.134.207:3003/users/sign_up
